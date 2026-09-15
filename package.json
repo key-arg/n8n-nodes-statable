@@ -1,6 +1,6 @@
 {
 	"name": "n8n-nodes-statable",
-	"version": "0.1.0",
+	"version": "0.1.1",
 	"description": "n8n node for Statable, privacy-first cookieless web analytics. Query visitors, sources, pages, goals and funnels in your workflows.",
 	"license": "MIT",
 	"homepage": "https://github.com/key-arg/n8n-nodes-statable#readme",
@@ -35,8 +35,12 @@
 		"prepublishOnly": "n8n-node prerelease"
 	},
 	"files": [
-		"dist"
+		"dist",
+		"!dist/tsconfig.tsbuildinfo"
 	],
+	"publishConfig": {
+		"access": "public"
+	},
 	"n8n": {
 		"n8nNodesApiVersion": 1,
 		"strict": true,
