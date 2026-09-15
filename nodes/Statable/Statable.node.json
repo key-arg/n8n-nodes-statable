@@ -1,0 +1,18 @@
+{
+	"node": "n8n-nodes-statable",
+	"nodeVersion": "1.0",
+	"codexVersion": "1.0",
+	"categories": ["Analytics", "Marketing"],
+	"resources": {
+		"credentialDocumentation": [
+			{
+				"url": "https://statable.com/docs/developers/stats-api/authentication/"
+			}
+		],
+		"primaryDocumentation": [
+			{
+				"url": "https://github.com/key-arg/n8n-nodes-statable#readme"
+			}
+		]
+	}
+}
