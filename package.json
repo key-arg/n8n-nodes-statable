@@ -3,7 +3,7 @@
 	"version": "0.1.1",
 	"description": "n8n node for Statable, privacy-first cookieless web analytics. Query visitors, sources, pages, goals and funnels in your workflows.",
 	"license": "MIT",
-	"homepage": "https://github.com/key-arg/n8n-nodes-statable#readme",
+	"homepage": "https://statable.com/docs/integrations/n8n/",
 	"keywords": [
 		"n8n-community-node-package",
 		"n8n",
