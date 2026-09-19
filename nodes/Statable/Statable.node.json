@@ -1,8 +1,8 @@
 {
-	"node": "n8n-nodes-statable",
+	"node": "n8n-nodes-statable.statable",
 	"nodeVersion": "1.0",
 	"codexVersion": "1.0",
-	"categories": ["Analytics", "Marketing"],
+	"categories": ["Analytics", "Marketing & Content"],
 	"resources": {
 		"credentialDocumentation": [
 			{
@@ -11,7 +11,7 @@
 		],
 		"primaryDocumentation": [
 			{
-				"url": "https://github.com/key-arg/n8n-nodes-statable#readme"
+				"url": "https://statable.com/docs/integrations/n8n/"
 			}
 		]
 	}
